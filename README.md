@@ -1,6 +1,6 @@
 # Weather
 
-Get realtime weather data of any geographic location in the world with cute weather condition images with light and dark mode support.
+Get realtime weather data of any geographic location in the world with cute weather condition images with dark mode support.
 
 
 The weather is fetched with the help of OpenWeatherAPI. 
